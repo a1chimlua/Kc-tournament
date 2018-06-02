@@ -18996,7 +18996,7 @@ var SHIPDATA = {
 		unknownstats: true,
 		RNG: 5,
 		SPD: 5,
-		SLOTS: [0, 0, 0, 0],
+		SLOTS: [0, 0, 198, 0],
 	},
 	1773: {
 		name: 'Entombed Anti-Air Guardian Princess 1',
@@ -19152,7 +19152,7 @@ var SHIPDATA = {
 		unknownstats: true,
 		RNG: 5,
 		SPD: 5,
-		SLOTS: [0, 0, 0, 0],
+		SLOTS: [28, 28, 20, 20],
 		EQUIPS: [581,582,583,575],
 	},
 	1781: {
