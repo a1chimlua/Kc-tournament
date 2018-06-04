@@ -19524,6 +19524,7 @@ var SHIPDATA = {
 		RNG: 1,
 		SPD: 10,
 		SLOTS: [0, 0, 0, 0],
+		EQUIPS: [581,575,582,583],
 	},
 	1800: {
 		name: 'Abyssal Crane Princess 2',
@@ -19543,6 +19544,7 @@ var SHIPDATA = {
 		RNG: 1,
 		SPD: 10,
 		SLOTS: [0, 0, 0, 0],
+		EQUIPS: [581,575,582,583],
 	},
 	1801: {
 		name: 'Abyssal Crane Princess 3',
@@ -19562,6 +19564,7 @@ var SHIPDATA = {
 		RNG: 1,
 		SPD: 10,
 		SLOTS: [0, 0, 0, 0],
+		EQUIPS: [581,575,582,583],
 	},
 	1802: {
 		name: 'Abyssal Crane Princess - Damaged 1',
@@ -19580,7 +19583,7 @@ var SHIPDATA = {
 		unknownstats: true,
 		RNG: 1,
 		SPD: 10,
-		SLOTS: [0, 0, 0, 0]
+		SLOTS: [0, 0, 0, 0],
 		EQUIPS: [581,575,582,583],
 	},
 	1803: {
@@ -19600,7 +19603,7 @@ var SHIPDATA = {
 		unknownstats: true,
 		RNG: 1,
 		SPD: 10,
-		SLOTS: [0, 0, 0, 0]
+		SLOTS: [0, 0, 0, 0],
 		EQUIPS: [581,575,582,583],
 	},
 	1804: {
@@ -19620,7 +19623,7 @@ var SHIPDATA = {
 		unknownstats: true,
 		RNG: 4,
 		SPD: 10,
-		SLOTS: [69, 46, 46, 46]
+		SLOTS: [69, 46, 46, 46],
 		EQUIPS: [581,575,582,583],
 	},
 	2001: {
