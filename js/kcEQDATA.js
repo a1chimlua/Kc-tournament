@@ -3408,6 +3408,7 @@ var EQDATA = {
 		nameJP: '彩雲(偵四)',
 		added: '2018-02-16',
 		type: CARRIERSCOUT,
+		noRedT: true,
 		AA: 2,
 		ACC: 2,
 		LOS: 10,
