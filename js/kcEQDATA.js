@@ -3878,6 +3878,8 @@ var EQDATA = {
 		name: 'Abyssal AA Dispersal Shell',
 		nameJP: '対空散弾',
 		type: TYPE3SHELL,
+		btype: B_TYPE3SHELL,
+		atype: A_TYPE3SHELL,
 		AA: 10,
 	},
 	536: {
