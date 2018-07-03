@@ -4470,6 +4470,18 @@ var VOICES = {
 		damage: "assets/voice/BB_Hime_Damaged_2.ogg",
 		sunk: "assets/voice/BB_Hime_Sunk_2.ogg",
 	},
+	1791: {
+		start: "assets/voice/BB_Hime_Attack_2.ogg",
+		attack: "assets/voice/BB_Hime_Attack_1.ogg",
+		damage: "assets/voice/BB_Hime_Damaged_2.ogg",
+		sunk: "assets/voice/BB_Hime_Sunk_2.ogg",
+	},
+	1792: {
+		start: "assets/voice/BB_Hime_Attack_2.ogg",
+		attack: "assets/voice/BB_Hime_Attack_1.ogg",
+		damage: "assets/voice/BB_Hime_Damaged_2.ogg",
+		sunk: "assets/voice/BB_Hime_Sunk_2.ogg",
+	},
 	2001: {
 		start: "assets/voice/Iona_fog_-Battle_Start.ogg",
 		attack: "assets/voice/Iona_fog_-Attack.ogg",
