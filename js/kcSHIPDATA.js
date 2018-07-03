@@ -19174,6 +19174,8 @@ var SHIPDATA = {
 		nameJP: '空母棲姫',
 		image: 'SCVH.jpg',
 		type: 'CV',
+		nightattack: 1,
+		divebombWeak: 2,
 		HP: 350,
 		FP: 198,
 		TP: 0,
