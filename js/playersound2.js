@@ -4452,6 +4452,24 @@ var VOICES = {
 		damage: "assets/voice/Northern_Water_Princess_Broken_Form_Damaged.ogg",
 		sunk: "assets/voice/Northern_Water_Princess_Sunk.ogg",
 	},
+	1781: {
+		start: "assets/voice/CV_Hime_Intro.ogg",
+		attack: "assets/voice/CV_Hime_Attack_1.ogg",
+		damage: "assets/voice/CV_Hime_Attack_2.ogg",
+		sunk: "assets/voice/CV_Hime_Sunk.ogg",
+	},
+	1782: {
+		start: "assets/voice/CV_Hime_Intro.ogg",
+		attack: "assets/voice/CV_Hime_Attack_1.ogg",
+		damage: "assets/voice/CV_Hime_Attack_2.ogg",
+		sunk: "assets/voice/CV_Hime_Sunk.ogg",
+	},
+	1790: {
+		start: "assets/voice/BB_Hime_Attack_2.ogg",
+		attack: "assets/voice/BB_Hime_Attack_1.ogg",
+		damage: "assets/voice/BB_Hime_Damaged_2.ogg",
+		sunk: "assets/voice/BB_Hime_Sunk_2.ogg",
+	},
 	2001: {
 		start: "assets/voice/Iona_fog_-Battle_Start.ogg",
 		attack: "assets/voice/Iona_fog_-Attack.ogg",
