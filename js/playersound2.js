@@ -4452,6 +4452,12 @@ var VOICES = {
 		damage: "assets/voice/Northern_Water_Princess_Broken_Form_Damaged.ogg",
 		sunk: "assets/voice/Northern_Water_Princess_Sunk.ogg",
 	},
+	1770: {
+		start: "assets/voice/Night_Strait_Princesses_Broken_Form_Intro.oga",
+		attack: "assets/voice/Night_Strait_Princesses_Broken_Form_Attack.oga",
+		damage: "assets/voice/Night_Strait_Princesses_Broken_Form_Damaged.oga",
+		sunk: "assets/voice/Night_Strait_Princesses_Broken_Form_Sunk.oga",
+	},
 	1781: {
 		start: "assets/voice/CV_Hime_Intro.ogg",
 		attack: "assets/voice/CV_Hime_Attack_1.ogg",
