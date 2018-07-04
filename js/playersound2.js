@@ -4452,6 +4452,24 @@ var VOICES = {
 		damage: "assets/voice/Northern_Water_Princess_Broken_Form_Damaged.ogg",
 		sunk: "assets/voice/Northern_Water_Princess_Sunk.ogg",
 	},
+	1758: {
+		start: "assets/voice/European_Princess_Broken_Form_Intro.oga",
+		attack: "assets/voice/European_Princess_Broken_Form_Attack.oga",
+		damage: "assets/voice/European_Princess_Broken_Form_Damaged.oga",
+		sunk: "assets/voice/European_Princess_Sunk.oga",
+	},
+	1759: {
+		start: "assets/voice/European_Princess_Broken_Form_Intro.oga",
+		attack: "assets/voice/European_Princess_Broken_Form_Attack.oga",
+		damage: "assets/voice/European_Princess_Broken_Form_Damaged.oga",
+		sunk: "assets/voice/European_Princess_Sunk.oga",
+	},	
+	1760: {
+		start: "assets/voice/European_Princess_Broken_Form_Intro.oga",
+		attack: "assets/voice/European_Princess_Broken_Form_Attack.oga",
+		damage: "assets/voice/European_Princess_Broken_Form_Damaged.oga",
+		sunk: "assets/voice/European_Princess_Sunk.oga",
+	},
 	1770: {
 		start: "assets/voice/Night_Strait_Princesses_Broken_Form_Intro.oga",
 		attack: "assets/voice/Night_Strait_Princesses_Broken_Form_Attack.oga",
@@ -4469,6 +4487,42 @@ var VOICES = {
 		attack: "assets/voice/Night_Strait_Princesses_Broken_Form_Attack.oga",
 		damage: "assets/voice/Night_Strait_Princesses_Broken_Form_Damaged.oga",
 		sunk: "assets/voice/Night_Strait_Princesses_Broken_Form_Sunk.oga",
+	},
+	1773: {
+		start: "assets/voice/Entombed_Ant-Air_Guardian_Princess_Intro.oga",
+		attack: "assets/voice/Entombed_Ant-Air_Guardian_Princess_Attack.oga",
+		damage: "assets/voice/Entombed_Ant-Air_Guardian_PrincessDamaged.oga",
+		sunk: "assets/voice/Entombed_Ant-Air_Guardian_Princess_Sunk.oga",
+	},
+	1774: {
+		start: "assets/voice/Entombed_Ant-Air_Guardian_Princess_Intro.oga",
+		attack: "assets/voice/Entombed_Ant-Air_Guardian_Princess_Attack.oga",
+		damage: "assets/voice/Entombed_Ant-Air_Guardian_PrincessDamaged.oga",
+		sunk: "assets/voice/Entombed_Ant-Air_Guardian_Princess_Sunk.oga",
+	},
+	1775: {
+		start: "assets/voice/Entombed_Ant-Air_Guardian_Princess_Intro.oga",
+		attack: "assets/voice/Entombed_Ant-Air_Guardian_Princess_Attack.oga",
+		damage: "assets/voice/Entombed_Ant-Air_Guardian_PrincessDamaged.oga",
+		sunk: "assets/voice/Entombed_Ant-Air_Guardian_Princess_Sunk.oga",
+	},
+	1776: {
+		start: "assets/voice/Escort_Water_Princess_Broken_Form_Intro.oga",
+		attack: "assets/voice/Escort_Water_Princess_Broken_Form_Attack.oga",
+		damage: "assets/voice/Escort_Water_Princess_Broken_Form_Damaged.oga",
+		sunk: "assets/voice/Escort_Water_Princess_Broken_Form_Sunk.oga",
+	},
+	1777: {
+		start: "assets/voice/Escort_Water_Princess_Broken_Form_Intro.oga",
+		attack: "assets/voice/Escort_Water_Princess_Broken_Form_Attack.oga",
+		damage: "assets/voice/Escort_Water_Princess_Broken_Form_Damaged.oga",
+		sunk: "assets/voice/Escort_Water_Princess_Broken_Form_Sunk.oga",
+	},
+	1778: {
+		start: "assets/voice/Escort_Water_Princess_Broken_Form_Intro.oga",
+		attack: "assets/voice/Escort_Water_Princess_Broken_Form_Attack.oga",
+		damage: "assets/voice/Escort_Water_Princess_Broken_Form_Damaged.oga",
+		sunk: "assets/voice/Escort_Water_Princess_Broken_Form_Sunk.oga",
 	},
 	1781: {
 		start: "assets/voice/CV_Hime_Intro.ogg",
@@ -4499,6 +4553,24 @@ var VOICES = {
 		attack: "assets/voice/BB_Hime_Attack_1.ogg",
 		damage: "assets/voice/BB_Hime_Damaged_2.ogg",
 		sunk: "assets/voice/BB_Hime_Sunk_2.ogg",
+	},
+	1802: {
+		start: "assets/voice/Abyssal_Crane_Princss_Broken_Form_Intro.oga",
+		attack: "assets/voice/Abyssal_Crane_Princss_Broken_Form_Attack.oga",
+		damage: "assets/voice/Abyssal_Crane_Princss_Broken_Form_Damaged.oga",
+		sunk: "assets/voice/Abyssal_Crane_Princss_Broken_Form_Sunk.oga",
+	},
+	1803: {
+		start: "assets/voice/Abyssal_Crane_Princss_Broken_Form_Intro.oga",
+		attack: "assets/voice/Abyssal_Crane_Princss_Broken_Form_Attack.oga",
+		damage: "assets/voice/Abyssal_Crane_Princss_Broken_Form_Damaged.oga",
+		sunk: "assets/voice/Abyssal_Crane_Princss_Broken_Form_Sunk.oga",
+	},
+	1804: {
+		start: "assets/voice/Abyssal_Crane_Princss_Broken_Form_Intro.oga",
+		attack: "assets/voice/Abyssal_Crane_Princss_Broken_Form_Attack.oga",
+		damage: "assets/voice/Abyssal_Crane_Princss_Broken_Form_Damaged.oga",
+		sunk: "assets/voice/Abyssal_Crane_Princss_Broken_Form_Sunk.oga",
 	},
 	2001: {
 		start: "assets/voice/Iona_fog_-Battle_Start.ogg",
