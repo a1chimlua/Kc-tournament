@@ -4209,7 +4209,7 @@ var EQDATA = {
 	570: {
 		name: 'High-speed Abyssal Torpedo mod. 2',
 		nameJP: '高速深海魚雷 mod.2',
-		type: MIDGETSUB,
+		type: OTHER,
 		TP: 13,
 		ACC: 3,
 		RNG: 1,
@@ -4345,7 +4345,7 @@ var EQDATA = {
 		name: 'Abyssal Ambush Torpedo',
 		nameJP: '深海待伏魚雷',
 		added: '2017-11-19',
-		type: MIDGETSUB,
+		type: OTHER,
 		TP: 19,
 		ACC: 9,
 		RNG: 1,
