@@ -4245,6 +4245,7 @@ var EQDATA = {
 		nameJP: '深海潜水下駄履き',
 		b_image: 7,
 		type: SEAPLANEBOMBER,
+		btype: B_RECON,
 		FP: 6,
 		DIVEBOMB: 18,
 		AA: 6,
