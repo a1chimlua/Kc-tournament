@@ -523,9 +523,9 @@ function shellPhase(order1,order2,alive1,subsalive1,alive2,subsalive2,APIhou,isO
 					for (var j=0; j<targets.length; j++) if (targets[j].HP <= 0) alive1.splice(alive1.indexOf(targets[j]),1);
 				}  else {
 					var targets; //divebomber can't shell install, copy over to enemy?
-					if (order1[i].hasDivebomber) {
+					if (order2[i].hasDivebomber) {
 						targets = [];
-						for (var j=0; j<alive2.length; j++) if (!alive2[j].isInstall) targets.push(alive2[j]);
+						for (var j=0; j<alive1.length; j++) if (!alive1[j].isInstall) targets.push(alive1[j]);
 					} else if (order2[i].isSub) {
 						targets = [];
 						for (var j=0; j<alive1.length; j++) if (alive1[j].isInstall) targets.push(alive1[j]);
