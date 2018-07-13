@@ -532,6 +532,7 @@ function shellPhase(order1,order2,alive1,subsalive1,alive2,subsalive2,APIhou,isO
 					} else {
 					var target = choiceWProtect(alive1);
 					if (shell(order2[i],target,APIhou)) alive1.splice(alive1.indexOf(target),1);
+					}
 				}
 			}
 		}
