@@ -529,9 +529,10 @@ function shellPhase(order1,order2,alive1,subsalive1,alive2,subsalive2,APIhou,isO
 					} else if (order2[i].isSub) {
 						targets = [];
 						for (var j=0; j<alive1.length; j++) if (alive1[j].isInstall) targets.push(alive1[j]);
-					} else {
-					var target = choiceWProtect(alive1);
-					if (shell(order2[i],target,APIhou)) alive1.splice(alive1.indexOf(target),1);
+					} else targets = alive1;
+					if (targets.length) {
+						var target = choiceWProtect(targets);
+						if (shell(order2[i],target,APIhou)) alive1.splice(alive1.indexOf(target),1);
 					}
 				}
 			}
